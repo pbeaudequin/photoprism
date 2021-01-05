@@ -1,0 +1,4 @@
+192.168.0.49:/volume1/photo /media/NAS/photo    nfs     defaults        0       0
+#192.168.0.49:/volume1/homes /media/NAS/homes   nfs     defaults        0       0
+192.168.0.49:/volume1/music /media/NAS/music    nfs     defaults        0       0
+192.168.0.49:/volume1/video /media/NAS/video    nfs     defaults        0       0
